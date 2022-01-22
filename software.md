@@ -1,6 +1,5 @@
 ---
 title: Software
-subtitle:
 layout: "page"
 icon: fa-book
 order: 3
@@ -9,7 +8,12 @@ order: 3
 I am personally involved in the development and maintenance of various pieces of scientific software that are particularly dedicated to the automation of the scientific development process.
 
 
-AMC - Angular-momentum coupling
+---
+subtitle: AMC - Angular-momentum coupling
+layout: "page"
+icon: fa-book
+order: 1
+---
 
 The AMC tool automates the time-consuming and error-prone derivation of angular-momentum coupling in many-body theory.
 Many codes implement rotationally invariant versions of the many-body formalisms, thus, requiring a lengthy formal derivation using SU(2) algebra to simplify Clebsch-Gordan expressions. This has now been automated using graph-theory-based tools (so-called Yucys graphs) to provide the correct working equations in a matter of seconds that otherwise takes months of manual work.
