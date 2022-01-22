@@ -5,7 +5,7 @@ icon: fa-book
 order: 2
 ---
 
-I have been (co-)author in the following research papers
+I have been (co-)authoring the following research papers
 
 1. *Hartree-Fock Many-Body Perturbation Theory for Nuclear Ground States *
 A. Tichai, J. Langhammer, S. Binder and R. Roth,
