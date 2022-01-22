@@ -85,3 +85,11 @@ A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, A. Schwenk
 20. *Excited states from eigenvector continuation: the anharmonic oscillator *
 M. E. Companys Franzke, A. Tichai, K. Hebeler, A. Schwenk
  arXiv: 2105.03935 (2021)
+
+21. *Importance truncation for the in-medium similarity renormalization group*
+J. Hoppe, A. Tichai, M. Heinz, K. Hebeler, A. Schwenk
+arXiv: 2110.09390 (2021)
+
+22. *Angular-momentum projection in coupled-cluster theory: structure of 34Mg*
+G. Hagen, S.J. Novario, Z.H. Sun, T. Papenbrock, G.R. Jansen, J.G. Lietz, T. Duguet, A. Tichai
+arXiv: 2201.07298 (2022)
