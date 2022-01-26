@@ -35,28 +35,28 @@ A. Tichai, R. Schutski, G. E. Scuseria, T. Duguet,
 A. Tichai, J. Ripoche, T. Duguet,
  European Physical Journal A 55:90 (2019)
 
-8. *Normal-ordered k-body approximation in particle-number-breaking theories*
- J. Ripoche, A. Tichai, T. Duguet,
+8. *Normal-ordered k-body approximation in particle-number-breaking theories*   
+ J. Ripoche, A. Tichai, T. Duguet   
  European Physical Journal A 56:40 (2020)
 
-9. *Bogoliubov many-body perturbation theory under constraint *
-P. Demol, M. Frosini, A. Tichai, V. Somà, T. Duguet,
+9. *Bogoliubov many-body perturbation theory under constraint *   
+P. Demol, M. Frosini, A. Tichai, V. Somà, T. Duguet   
  Annals of Physics 424 168358 (2020)
 
 10. *Symmetry reduction of tensor networks in many-body theory  I. Automated symbolic evaluation of SU(2) algebra *
-A. Tichai, R. Wirth, J. Ripoche, T. Duguet,
+A. Tichai, R. Wirth, J. Ripoche, T. Duguet
  European Physical Journal A 56:10 (2020)
 
 11. *Many-body perturbation theories for finite nuclei *
-A. Tichai, R. Roth, T. Duguet,
+A. Tichai, R. Roth, T. Duguet   
  Frontiers in Physics 8 164 (2020)
 
-12. *Improved many-body expansions from eigenvector continuation *
-P. Demol, T. Duguet,  A. Ekström, M. Frosini, K. Hebeler, S. König, D. Lee, A. Schwenk, V. Somá, A. Tichai,
+12. *Improved many-body expansions from eigenvector continuation *   
+P. Demol, T. Duguet,  A. Ekström, M. Frosini, K. Hebeler, S. König, D. Lee, A. Schwenk,  V. Somá, A. Tichai    
  Physical Review C 101, 041302(R) (Editors’ suggestion) (2020)
 
-13. *Zero-pairing limit of Hartree-Fock-Bogoliubov reference states*
- T. Duguet, B. Bally, A. Tichai,
+13. *Zero-pairing limit of Hartree-Fock-Bogoliubov reference states*  
+ T. Duguet, B. Bally, A. Tichai  
  Physical Review C 102, 054320 (2020)
 
 14. *ADG: Automated generation and evaluation of many-body diagrams  II. Particle-number projected Bogoliubov many-body perturbation theory*
