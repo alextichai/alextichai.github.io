@@ -77,11 +77,11 @@ M. Heinz, A. Tichai, J. Hoppe, K. Hebeler,  A. Schwenk\
 
 18. *Importance truncation in non-perturbative many-body techniques *\
 A. Porro, V. Somà, A. Tichai, T. Duguet\
- arXiv: 2103.14544 (2021)
+European Physical Journal A, 57: 297 (2021)
 
 19. *Low-rank matrix decompositions for ab initio nuclear structure *\
 A. Tichai, P. Arthuis, K. Hebeler, M. Heinz, J. Hoppe, A. Schwenk\
- arXiv: 2105.03935 (2021)
+Physics Letters B, 821, 136623 (2021)
 
 20. *Excited states from eigenvector continuation: the anharmonic oscillator *\
 M. E. Companys Franzke, A. Tichai, K. Hebeler, A. Schwenk\
