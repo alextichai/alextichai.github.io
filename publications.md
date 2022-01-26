@@ -7,36 +7,36 @@ order: 2
 
 I have been (co-)authoring the following research papers
 
-1. *Hartree-Fock Many-Body Perturbation Theory for Nuclear Ground States *
-A. Tichai, J. Langhammer, S. Binder and R. Roth,
+1. *Hartree-Fock Many-Body Perturbation Theory for Nuclear Ground States *\
+A. Tichai, J. Langhammer, S. Binder and R. Roth\
  Physics Letters B 756, 283 (2016)
 
-2. *Bogoliubov many-body perturbation theory for open-shell nuclei*
- A. Tichai, P.  Arthuis, T. Duguet,  V. Soma, H. Hergert and R. Roth, 
+2. *Bogoliubov many-body perturbation theory for open-shell nuclei*\   
+ A. Tichai, P.  Arthuis, T. Duguet, V. Soma, H. Hergert, R. Roth\
 Physics Letters B 786, 192 (2018)
 
-3. *Open-Shell Nuclei from No-Core Shell Model with Perturbative Improvement*
- A. Tichai, E. Gebrerufael, K.  Vobig and R. Roth,  
+3. *Open-Shell Nuclei from No-Core Shell Model with Perturbative Improvement*\
+ A. Tichai, E. Gebrerufael, K.  Vobig and R. Roth\
  Physics Letters B 786, 448 (2018)
 
-4. *ADG: Automated generation and evaluation of many-body diagrams  I. Bogoliubov many-body perturbation theory *
-P. Arthuis, T. Duguet, A. Tichai, R.-D. Lasseri, J.-P. Ebran,
+4. *ADG: Automated generation and evaluation of many-body diagrams  I. Bogoliubov many-body perturbation theory *\
+P. Arthuis, T. Duguet, A. Tichai, R.-D. Lasseri, J.-P. Ebran\
  Computer Physics Communications 240:202-227 (2018)
 
-5. *Natural orbitals for ab initio no-core shell model calculations *
-A. Tichai, J. Müller, K. Vobig, R. Roth, 
+5. *Natural orbitals for ab initio no-core shell model calculations *\
+A. Tichai, J. Müller, K. Vobig, R. Roth\
 Physical Review C 99, 034321 (Editors’ Suggestion) (2019)
 
-6. *Tensor-decomposition techniques for ab initio nuclear structure calculations.  From chiral nuclear potentials to ground-state energies *
-A. Tichai, R. Schutski, G. E. Scuseria, T. Duguet,
+6. *Tensor-decomposition techniques for ab initio nuclear structure calculations.  From chiral nuclear potentials to ground-state energies *\
+A. Tichai, R. Schutski, G. E. Scuseria, T. Duguet\
  Physical Review C 99, 034320 (2019)
 
-7. *Pre-processing the nuclear many-body problem:   Importance truncation versus tensor factorization techniques *
-A. Tichai, J. Ripoche, T. Duguet,
+7. *Pre-processing the nuclear many-body problem:   Importance truncation versus tensor factorization techniques *\
+A. Tichai, J. Ripoche, T. Duguet\
  European Physical Journal A 55:90 (2019)
 
-8. *Normal-ordered k-body approximation in particle-number-breaking theories*   
- J. Ripoche, A. Tichai, T. Duguet   
+8. *Normal-ordered k-body approximation in particle-number-breaking theories*\
+ J. Ripoche, A. Tichai, T. Duguet\
  European Physical Journal A 56:40 (2020)
 
 9. *Bogoliubov many-body perturbation theory under constraint *   
