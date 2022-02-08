@@ -94,3 +94,7 @@ arXiv: 2110.09390 (2021)
 22. *Angular-momentum projection in coupled-cluster theory: structure of 34Mg*\
 G. Hagen, S.J. Novario, Z.H. Sun, T. Papenbrock, G.R. Jansen, J.G. Lietz, T. Duguet, A. Tichai\
 arXiv: 2201.07298 (2022)
+
+23. *Nuclear Forces for Precision Nuclear Physics -- a collection of perspectives*\
+I. Tews *et al.*\
+arXiv:2202.01105 (2022)
